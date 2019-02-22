@@ -1,0 +1,20 @@
+{
+  "name": "smpp-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "smpp-cli": "^1.0.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "ip-address": "^5.8.9",
+    "smpp": "^0.3.1"
+  }
+}
